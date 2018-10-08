@@ -3,7 +3,7 @@
   "name": "Netto",
   "marketplaceName": "Netto",
   "description": "Um Netto in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei netto-online.de nötig.",
-  "namespace": "MultiChannelNetto",
+  "namespace": "Netto",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentymarkets GmbH",
   "email": "support@plentymarkets.eu",
