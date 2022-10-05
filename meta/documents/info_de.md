@@ -1,4 +1,3 @@
-
 # Netto
 
 <div class="container-toc"></div>
