@@ -8,6 +8,4 @@
 
 ## Handbuch
 
-Die Schnittstelle zu Netto ist in die Schnittstelle Plus.de implementiert.
-
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/plus-gartenxxl" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/de-de/manual/main/maerkte/plus-gartenxxl.html" target="_blank">Knowledge</a>

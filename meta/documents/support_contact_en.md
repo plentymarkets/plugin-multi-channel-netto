@@ -8,7 +8,5 @@
 
 ## Manual
 
-The interface to Netto is implemented into the interface to Plus.de.
-
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/plus-gartenxxl" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/plus-gartenxxl.html" target="_blank">Knowledge</a>
 
